@@ -1,0 +1,8 @@
+D:\C#\C-shape\dahinh\dahinh\bin\Debug\dahinh.exe.config
+D:\C#\C-shape\dahinh\dahinh\bin\Debug\dahinh.exe
+D:\C#\C-shape\dahinh\dahinh\bin\Debug\dahinh.pdb
+D:\C#\C-shape\dahinh\dahinh\obj\Debug\dahinh.csproj.AssemblyReference.cache
+D:\C#\C-shape\dahinh\dahinh\obj\Debug\dahinh.csproj.SuggestedBindingRedirects.cache
+D:\C#\C-shape\dahinh\dahinh\obj\Debug\dahinh.csproj.CoreCompileInputs.cache
+D:\C#\C-shape\dahinh\dahinh\obj\Debug\dahinh.exe
+D:\C#\C-shape\dahinh\dahinh\obj\Debug\dahinh.pdb
