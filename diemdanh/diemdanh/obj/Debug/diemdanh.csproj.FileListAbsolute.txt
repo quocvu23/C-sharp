@@ -1,0 +1,8 @@
+D:\C#\C-shape\diemdanh\diemdanh\bin\Debug\diemdanh.exe.config
+D:\C#\C-shape\diemdanh\diemdanh\bin\Debug\diemdanh.exe
+D:\C#\C-shape\diemdanh\diemdanh\bin\Debug\diemdanh.pdb
+D:\C#\C-shape\diemdanh\diemdanh\obj\Debug\diemdanh.csproj.AssemblyReference.cache
+D:\C#\C-shape\diemdanh\diemdanh\obj\Debug\diemdanh.csproj.SuggestedBindingRedirects.cache
+D:\C#\C-shape\diemdanh\diemdanh\obj\Debug\diemdanh.csproj.CoreCompileInputs.cache
+D:\C#\C-shape\diemdanh\diemdanh\obj\Debug\diemdanh.exe
+D:\C#\C-shape\diemdanh\diemdanh\obj\Debug\diemdanh.pdb
