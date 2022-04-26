@@ -1,0 +1,8 @@
+D:\C#\C-shape\diemdanh\bai2\bin\Debug\bai2.exe.config
+D:\C#\C-shape\diemdanh\bai2\bin\Debug\bai2.exe
+D:\C#\C-shape\diemdanh\bai2\bin\Debug\bai2.pdb
+D:\C#\C-shape\diemdanh\bai2\obj\Debug\bai2.csproj.AssemblyReference.cache
+D:\C#\C-shape\diemdanh\bai2\obj\Debug\bai2.csproj.SuggestedBindingRedirects.cache
+D:\C#\C-shape\diemdanh\bai2\obj\Debug\bai2.csproj.CoreCompileInputs.cache
+D:\C#\C-shape\diemdanh\bai2\obj\Debug\bai2.exe
+D:\C#\C-shape\diemdanh\bai2\obj\Debug\bai2.pdb
